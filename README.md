@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">Studying Data Science at The Bit Academy</h3>
+<h3 align="center">Studying Data Science at The Bit Academy in Amsterdam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhancitil&label=Profile%20views&color=c40000&style=flat-square" alt="erhancitil" /> </p>
 
