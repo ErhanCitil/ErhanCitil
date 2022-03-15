@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">Studying Data Science at The Bit Academy in Amsterdam</h3>
+<h3 align="center">Studying Data Science at The Bit Academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhancitil&label=Profile%20views&color=c40000&style=flat-square" alt="erhancitil" /> </p>
 
@@ -17,7 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/erhanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erhanc" height="30" width="40" /></a>
+<a href="https://dev.to/erhanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="erhanc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erhancitil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erhancitil" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17053394" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17053394" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erhancitil94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erhancitil94" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@erhanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@erhanc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
