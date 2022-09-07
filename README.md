@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erhancitil&label=Profile%20views&color=c40000&style=flat-square" alt="erhancitil" /> </p>
 
-- 🌱 I’m currently learning **Python, Pandas, Numpy, Matplotlib**
+- 🌱 I’m currently learning **Python, Pandas and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErhanCitil](https://github.com/ErhanCitil)
 
-- 💬 Ask me about **Python and Data Visualization**
+- 💬 Ask me about **Python and Data Django**
 
 - 📫 How to reach me **erhancitil94@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erhancitil/](https://www.linkedin.com/in/erhancitil/)
 
-- ⚡ Fun fact **I love to code Python**
+- ⚡ Fun fact **I love to code Python (And Django)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
