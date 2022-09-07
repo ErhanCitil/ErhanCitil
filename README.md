@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erhan</h1>
-<h3 align="center">Studying Data Science at The Bit Academy</h3>
+<h3 align="center">Studying Full-stack Webdevelopment in Python at The Bit Academy</h3>
 
 - 🌱 I’m currently learning **Python, Pandas and Django**
 
